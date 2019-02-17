@@ -47,7 +47,4 @@
 		</plugins>
 	</build>
 
-	<scm>
-		<developerConnection>scm:git:git@github.com:prabhneetgit/spring5-pet-clinic.git</developerConnection>
-	</scm>
 </project>
