@@ -1,7 +1,6 @@
 package com.prabhneet.spring.spring5petclinic.services.map;
 
 import com.prabhneet.spring.spring5petclinic.model.BaseEntity;
-
 import java.util.*;
 
 public abstract class AbstractMapService<T extends BaseEntity, ID extends Long> {
